@@ -2,6 +2,9 @@ h3 {
   background-color: red;
 }
 
-p {
-  color: beige;
+h2 {
+  padding: 10px;
+  border: 1px solid cyan;
+  border-radius: 20px 10px;
+  background-color: bisque;
 }
